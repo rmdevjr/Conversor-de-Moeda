@@ -1,0 +1,19 @@
+.conversor{
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10%;
+    background-color: rgb(228, 214, 214);
+}
+
+.botao{
+    margin-left: 5px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+::placeholder{
+    font-family: 'Montserrat', sans-serif;
+}
+
